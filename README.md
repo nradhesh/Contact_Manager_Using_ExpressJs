@@ -77,4 +77,5 @@ Middleware for validating JWT tokens and protecting routes.
 - `express-async-handler` 
 - `jsonwebtoken`
 - `mongoose`
- 
+
+**This markdown file provides an overview of the project, installation steps, usage instructions, available scripts, dependencies, and license information. Make sure to replace placeholders with your actual details.**
