@@ -49,31 +49,6 @@ Ensure you have the following installed:
 
 5. Visit `http://localhost:3000` in your browser.
 
-## Project Structure
-
-contact_manager/
-│
-├── controllers/
-│ ├── contactController.js
-│ └── userController.js
-│
-├── middleware/
-│ ├── validateTokenHandler.js
-│
-├── models/
-│ ├── contactModel.js
-│ └── userModel.js
-│
-├── routes/
-│ ├── contactRoutes.js
-│ └── userRoutes.js
-│
-├── .env
-├── .gitignore
-├── package.json
-├── README.md
-└── server.js
-
 ## API Endpoints
 
 ### User Routes
